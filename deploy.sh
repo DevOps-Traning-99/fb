@@ -12,3 +12,4 @@ idev
 
 
 testing clonign
+git pull command
