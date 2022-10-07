@@ -13,3 +13,4 @@ idev
 
 testing clonign
 git pull command
+adding new lines for pull command
